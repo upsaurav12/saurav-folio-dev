@@ -7,9 +7,9 @@ const experiences = [
     role: "LFX Intern",
     period: "Jun 2025 – Aug 2025",
     achievements: [
-      "Implemented k8cache package reducing API latency by 70%",
+      "Designed k8cache in Go, reducing latency from 40ms to ~10ms",
       "Improved CI coverage to 61% with unit/integration tests",
-      "Added in-memory caching and backend pagination features"
+      "Added optional in-memory caching and backend pagination"
     ]
   },
   {
@@ -17,8 +17,8 @@ const experiences = [
     role: "Contributor",
     period: "Jan 2024 – Present",
     achievements: [
-      "Worked on Headlamp, External-DNS, Inspektor-Gadget, and KubeEdge",
-      "Contributed 20+ PRs improving CI quality, UI performance, and testing coverage"
+      "Contributed 20+ PRs to Headlamp, External-DNS, Inspektor-Gadget, and KubeEdge",
+      "Improved CI pipelines, added tests, and optimized React + Go code"
     ]
   }
 ];
